@@ -85,7 +85,8 @@ const notFoundHandler = (_req, res) => {
 	res.statusCode = 404;
 	res.write(JSON.stringify({ Message: "route not found" }));
 	res.end();
-};
+}
+//user post req 
 const createUserHandler = (req, res)=>{
 	let body = ''
 	req.on('data', (chunk)=>{
