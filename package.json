@@ -6,7 +6,8 @@
   "scripts": {
     "start": "nodemon --env-file=.env app.mjs",
     "commonjs": "nodemon --env-file=.env server.js",
-    "users":"nodemon --env-file=.env userserver.mjs"
+    "users":"nodemon --env-file=.env userserver.mjs",
+    "fs":"nodemon --env-file=.env fsDemo.js"
   },
   "keywords": [],
   "author": "",
