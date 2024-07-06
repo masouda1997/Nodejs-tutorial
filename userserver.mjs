@@ -112,7 +112,6 @@ const createUserHandler = (req, res)=>{
 	})
 }
 
-
 const server = createServer((req, res) => {
 	logger(req, res, () => {
 		jsonMiddleware(req, res, () => {
