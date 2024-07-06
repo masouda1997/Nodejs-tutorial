@@ -11,7 +11,8 @@
     "path":"nodemon --env-file=.env pathDemo.mjs",
     "os":"nodemon --env-file=.env osDemo.mjs",
     "url":"nodemon --env-file=.env urlDemo.mjs",
-    "crp":"nodemon --env-file=.env cryptoDemo.mjs"
+    "crp":"nodemon --env-file=.env cryptoDemo.mjs",
+    "events":"nodemon --env-file=.env eventsDemo.mjs"
   },
   "keywords": [],
   "author": "",
