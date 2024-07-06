@@ -10,7 +10,8 @@
     "fs":"nodemon --env-file=.env fsDemo.js",
     "path":"nodemon --env-file=.env pathDemo.mjs",
     "os":"nodemon --env-file=.env osDemo.mjs",
-    "url":"nodemon --env-file=.env urlDemo.mjs"
+    "url":"nodemon --env-file=.env urlDemo.mjs",
+    "crp":"nodemon --env-file=.env cryptoDemo.mjs"
   },
   "keywords": [],
   "author": "",
