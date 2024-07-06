@@ -35,4 +35,3 @@ console.log('🏮',filePath2);
 // resolved() ==> bring the absolute path
 const filePath3 = path.resolve(__dirname , 'dir1', 'dir2' , 'test.txt')
 console.log('🏮',filePath3);
-
