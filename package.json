@@ -8,7 +8,8 @@
     "commonjs": "nodemon --env-file=.env server.js",
     "users":"nodemon --env-file=.env userserver.mjs",
     "fs":"nodemon --env-file=.env fsDemo.js",
-    "path":"nodemon --env-file=.env pathDemo.mjs"
+    "path":"nodemon --env-file=.env pathDemo.mjs",
+    "os":"nodemon --env-file=.env osDemo.mjs"
   },
   "keywords": [],
   "author": "",
