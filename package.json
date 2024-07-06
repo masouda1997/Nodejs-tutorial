@@ -9,7 +9,8 @@
     "users":"nodemon --env-file=.env userserver.mjs",
     "fs":"nodemon --env-file=.env fsDemo.js",
     "path":"nodemon --env-file=.env pathDemo.mjs",
-    "os":"nodemon --env-file=.env osDemo.mjs"
+    "os":"nodemon --env-file=.env osDemo.mjs",
+    "url":"nodemon --env-file=.env urlDemo.mjs"
   },
   "keywords": [],
   "author": "",
